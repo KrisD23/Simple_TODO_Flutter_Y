@@ -17,7 +17,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/KrisD23/simpleToDO
+   git clone https://github.com/KrisD23/Simple_TODO_Flutter_Y
    ```
 
 2. **Navigate to the Project Directory**:
